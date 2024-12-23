@@ -12,7 +12,6 @@ const { NotImplementedError } = require('../extensions/index.js');
  */
 function encodeLine(str) {
     if(str == '') {return '';
-
     } else {
     
     
